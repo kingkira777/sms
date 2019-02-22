@@ -1,0 +1,35 @@
+
+
+//TEACHER==============================
+t_no
+t_password
+t_lastname
+t_firstname
+t_middlename
+t_dob
+t_gender
+t_citizenship
+t_contactno
+t_email
+t_address
+
+			tno : tno.val(),
+               password : password.val(),
+               lname : lname.val(),
+               fname : fname.val(),
+               mname : mname.val(),
+               dob : dob.val(),
+               gender : gender.val(),
+               citizenship : cit.val(),
+               contact: contact.val(),
+               email : email.val(),
+               address : address.val()
+	  
+	  
+	  
+	  2207
+	 
+//STUDENT================================================================
+
+
+	  
